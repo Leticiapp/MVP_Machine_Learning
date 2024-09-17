@@ -1,4 +1,4 @@
-# MVP de Machine Learning - Previsão de Potabilidade da Água
+# MVP de Machine Learning
 
 ## Descrição
 Este projeto visa desenvolver um modelo de Machine Learning capaz de prever a potabilidade da água com base em suas características físico-químicas. O modelo utiliza um conjunto de dados contendo informações sobre diversos parâmetros da água, como pH, dureza, sólidos totais dissolvidos, entre outros, para determinar se uma amostra de água é segura para consumo humano.
